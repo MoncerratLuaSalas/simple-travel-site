@@ -34,3 +34,11 @@ body {
   clear: both;
   padding: 10px;
 }
+.footer {
+    color: blue;
+   
+   }
+   
+   .header {
+       color: red;
+   }
