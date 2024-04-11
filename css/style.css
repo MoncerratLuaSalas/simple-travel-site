@@ -1,4 +1,36 @@
 body {
-    background-color: lavenderblush;
-    font-family: cursive;
+  font-family: "Times New Roman", Times, serif;
+  background-color: red;
+}
+#container {
+  width: 80%;
+  margin: 0 auto;
+}
+#header {
+  background-color: blue;
+  color: yellow;
+  padding: 10px;
+  text-align: center;
+}
+#nav {
+  float: left;
+  width: 20%;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+#nav a {
+  text-decoration: none;
+  color: green;
+}
+#content {
+  float: left;
+  width: 80%;
+  padding: 10px;
+}
+#footer {
+  background-color: gray;
+  color: white;
+  text-align: center;
+  clear: both;
+  padding: 10px;
 }
